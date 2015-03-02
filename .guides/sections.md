@@ -234,7 +234,7 @@ Our code adds the record, shows all entries with it included, then deletes the r
 
 
 ## Task 1
-Click to open task file : [task-1.py](open_file "03-deletes/task-1.py").
+Click to open task file : [task-1.py](open_file "04-deletes/task-1.py").
 
 Run the program by pressing the 'Run File' button in the top menu and you should see:
 ```
@@ -251,6 +251,6 @@ Run the program by pressing the 'Run File' button in the top menu and you should
 (1, 'Martha', 55, 3)
 ```
 ## Task 2
-Click to open task file : [task-2.py](open_file "03-deletes/task-2.py").
+Click to open task file : [task-2.py](open_file "04-deletes/task-2.py").
 
 Modify other records and rerun select queries.
